@@ -16,3 +16,5 @@ using namespace guid_parse::literals;
 
 constexpr const GUID clsid = "{EFECF0A1-399E-40B8-A13C-ACE28DB40212}"_guid;
 </code>
+
+The file uuid_parse.hpp contains constexpr conversion-functions for <code>boost::uuids::uuid</code>.
